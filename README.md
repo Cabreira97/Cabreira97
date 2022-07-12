@@ -1,3 +1,4 @@
+
 <h4> :vulcan_salute:   E ai meus queridos! Tudo bem? Sou o Thiago Cabreira, atualmente estou cursando engenharia eletrônica e ADS, sou apaixonado por tecnologia e suas áreas.</h4>
 
 <div align="center">
@@ -20,11 +21,9 @@
   <a href = "mailto:thiagovieiramachado97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/soythiagocabreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-
-
-
- 
 </div> 
 
 
+<div>
+  <img src="https://user-images.githubusercontent.com/53668902/178516471-2bbedab7-c156-4830-8d11-e3de64bbec97.png"  width="400px"/>
+</div>
