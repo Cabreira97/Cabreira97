@@ -1,4 +1,4 @@
-<h4>E ai meus queridos! Tudo bem? Sou o Thiago Cabreira, atualmente estou cursando engenharia eletrônica e ADS, sou apaixonado por tecnologia e suas áreas..</h4>
+<h4> :vulcan_salute:   E ai meus queridos! Tudo bem? Sou o Thiago Cabreira, atualmente estou cursando engenharia eletrônica e ADS, sou apaixonado por tecnologia e suas áreas.</h4>
 
 <div align="center">
   <a href="https://github.com/Cabreira97">
