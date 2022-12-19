@@ -27,8 +27,8 @@
 <h4>Estudarei no futuro</h4>
 
 
-- [ ] NodeJS
-- [ ] ReactJS
+- [X] NodeJS
+- [X] ReactJS
 - [ ] TypeScript 
 - [ ] ChakraUI
 - [ ] Entre outros
