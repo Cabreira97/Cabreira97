@@ -29,8 +29,13 @@
 
 - [X] NodeJS
 - [X] ReactJS
-- [ ] TypeScript 
-- [ ] ChakraUI
+- [X] TypeScript 
+- [X] ChakraUI
+- [X] NextJs
+- [ ] NodeJS
+- [ ] Prisma
+- [ ] NestJS
+- [ ] NextJs
 - [ ] Entre outros
 
 </div>
