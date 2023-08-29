@@ -32,10 +32,10 @@
 - [X] TypeScript 
 - [X] ChakraUI
 - [X] NextJs
-- [ ] NodeJS
-- [ ] Prisma
-- [ ] NestJS
-- [ ] NextJs
+- [X] NodeJS
+- [X] Prisma
+- [X] NestJS
+- [X] NextJs
 - [ ] Entre outros
 
 </div>
