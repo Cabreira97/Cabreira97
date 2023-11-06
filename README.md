@@ -1,6 +1,6 @@
 
 <h4 > :vulcan_salute:   Meu nome é Thiago Vieira e sou um desenvolvedor front-end júnior. Atualmente, estou estudando análise e desenvolvimento de sistemas na faculdade. Trabalho com TypeScript, Next.js, Chakra UI, Tailwind CSS e GraphQL. Estou sempre buscando aprender novas tecnologias e, no momento, estou estudando NestJS, Prisma e outras tecnologias relacionadas a back-end.</h4>
-
+<br>
 <div align="center">
   <a href="https://github.com/Cabreira97">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cabreira97&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -8,12 +8,7 @@
 </div>
 
 
-<div align="center"><br>
-  <img align="center" alt="Thiago-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  </div><br>
+<br>
  
  
 <div align="center"> 
