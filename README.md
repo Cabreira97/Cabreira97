@@ -29,6 +29,7 @@ Também crio **automações com n8n**, conectando sistemas, APIs e ferramentas d
 - 🔭 Atualmente trabalhando na **[Chatlabs](https://chatlabs.com.br) e no PriceKeeper**
 - ✅ Atuo com **QA**: planejamento de testes, testes manuais e automatizados, rastreamento de bugs e garantia de qualidade
 - ⚙️ Desenvolvo **automações com n8n**: integrações, webhooks, agentes de IA e orquestração de fluxos
+- 🌍 Contribuo com **projetos open source**
 - 🌱 Sempre estudando o **ecossistema JavaScript/TypeScript**
 - 📝 Escrevo artigos no [Medium](https://medium.com/@cabreira97)
 - 💬 Pode me perguntar sobre **React, Next.js, NestJS, QA e n8n**
@@ -86,10 +87,26 @@ Também crio **automações com n8n**, conectando sistemas, APIs e ferramentas d
 
 ---
 
+## 🌍 Contribuições Open Source
+
+Gosto de contribuir com a comunidade, seja com código, documentação ou traduções.
+
+| Projeto | Contribuição | Status |
+|:---|:---|:---:|
+| [![AnyPS5](https://img.shields.io/github/stars/boykopovar/AnyPS5?style=social&label=AnyPS5)](https://github.com/boykopovar/AnyPS5) | [Tradução do README para pt-BR, es, zh-CN e ru](https://github.com/boykopovar/AnyPS5/pull/8434) | ![status](https://img.shields.io/github/pulls/detail/state/boykopovar/AnyPS5/8434?label=PR) |
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Acabreira97+is%3Apublic">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20meus%20PRs-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cabreira97&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cabreira97&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&show=prs_merged,prs_merged_percentage,reviews" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabreira97&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
